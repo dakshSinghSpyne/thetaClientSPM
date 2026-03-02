@@ -29,7 +29,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "THETAClient",
-            path: "Sources/ThetaClient/THETAClient.xcframework"
+            path: "Sources/THETAClient/THETAClient.xcframework"
         )
     ]
 )
